@@ -1,0 +1,6 @@
+<map id="PongGame" name="PongGame">
+<area shape="rect" id="node1" title=" " alt="" coords="36,301,183,408"/>
+<area shape="rect" id="node2" href="$class_player_info.html" title=" " alt="" coords="5,132,112,239"/>
+<area shape="rect" id="node3" href="$interface_match_maker_remote_interface.html" title=" " alt="" coords="137,139,325,231"/>
+<area shape="rect" id="node4" title=" " alt="" coords="197,5,264,83"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="GameFrame" name="GameFrame">
+<area shape="rect" id="node1" title=" " alt="" coords="972,518,1087,595"/>
+<area shape="rect" id="node3" href="$class_game_panel.html" title=" " alt="" coords="487,768,638,1227"/>
+<area shape="rect" id="node2" title=" " alt="" coords="997,154,1062,231"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,518,67,595"/>
+<area shape="rect" id="node5" title=" " alt="" coords="91,518,167,595"/>
+<area shape="rect" id="node6" href="$class_paddle.html" title=" " alt="" coords="343,459,463,654"/>
+<area shape="rect" id="node7" title=" " alt="" coords="355,154,435,231"/>
+<area shape="rect" id="node10" href="$class_ball.html" title=" " alt="" coords="487,423,638,691"/>
+<area shape="rect" id="node11" href="$class_score.html" title=" " alt="" coords="191,489,318,625"/>
+<area shape="rect" id="node8" href="$interface_coordinate2_d_remote_interface.html" title=" " alt="" coords="515,132,709,253"/>
+<area shape="rect" id="node9" title=" " alt="" coords="645,5,712,83"/>
+<area shape="rect" id="node12" href="$interface_player_scores_remote_interface.html" title=" " alt="" coords="735,277,929,399"/>
+</map>
